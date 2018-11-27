@@ -1,2 +1,2 @@
 # Zies-player
-![Image text](Zies-player/图片1.png)
+![Image text](https://github.com/Chenyuacey/Zies-player/edit/master/Zies-player/图片1.png)
